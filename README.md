@@ -11,3 +11,10 @@ Coveralls: [![Coverage Status](https://coveralls.io/repos/github/JgSeike/Grupo8/
 
 
 [Aplicação hospedada no Heroku ](https://group8-esi.herokuapp.com//)
+
+## Integrantes:
+- Joao Guilherme da Costa Seike
+- Beatriz Thompson Sathler Freitas
+- Igor Davi Cristino Miguez
+- Rafael Martins Campos
+- Joao Pedro Rodrigues Camargo
