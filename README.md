@@ -1,28 +1,13 @@
-# README
+# TBD
 
-### Badges:
+## informaçoes: 
 
-- Travis CI : [![Build Status](https://travis-ci.org/JgSeike/Grupo8.svg?branch=master)](https://travis-ci.org/JgSeike/Grupo8)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Travis: [![Build Status](https://travis-ci.org/JgSeike/Grupo8.svg?branch=master)](https://travis-ci.org/JgSeike/Grupo8)
 
-Things you may want to cover:
+Codeclimate: [![Maintainability](https://api.codeclimate.com/v1/badges/3e817f68d1e7aaebde5f/maintainability)](https://codeclimate.com/github/vascmig/aula_rails/maintainability)
 
-* Ruby version
+Coveralls: [![Coverage Status](https://coveralls.io/repos/github/vascmig/aula_rails/badge.svg?branch=master)](https://coveralls.io/github/vascmig/aula_rails?branch=master)
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Aplicação hospedada no Heroku ](https://group8-esi.herokuapp.com//)
