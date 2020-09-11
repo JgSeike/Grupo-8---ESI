@@ -1,24 +1,13 @@
-# README
+# TBD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## informaçoes: 
 
-Things you may want to cover:
 
-* Ruby version
+Travis: [![Build Status](https://travis-ci.org/JgSeike/Grupo8.svg?branch=master)](https://travis-ci.org/JgSeike/Grupo8)
 
-* System dependencies
+Codeclimate: [![Maintainability](https://api.codeclimate.com/v1/badges/19c58b7247f215fc868b/maintainability)](https://codeclimate.com/github/JgSeike/Grupo8/maintainability)
 
-* Configuration
+Coveralls: [![Coverage Status](https://coveralls.io/repos/github/JgSeike/Grupo8/badge.svg?branch=master)](https://coveralls.io/github/JgSeike/Grupo8?branch=master)
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Aplicação hospedada no Heroku ](https://group8-esi.herokuapp.com//)
