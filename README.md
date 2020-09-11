@@ -1,6 +1,6 @@
 # README
 
-##### Badges:
+### Badges:
 
 - Travis CI : [![Build Status](https://travis-ci.org/JgSeike/Grupo8.svg?branch=master)](https://travis-ci.org/JgSeike/Grupo8)
 
