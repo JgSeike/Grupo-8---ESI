@@ -1,16 +1,24 @@
-# Grupo-8---ESI
-Created to make the ESI
+# README
 
-# Heroku : https://group8-esi.herokuapp.com/
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
+Things you may want to cover:
 
-# Membros:
+* Ruby version
 
-- Joao Guilherme da Costa Seike
-- Beatriz Thompson Sathler Freitas
-- Igor Davi Cristino Miguez
-- Rafael Martins Campos
-- Joao Pedro Rodrigues Camargo
+* System dependencies
 
-Descrição:
-TBD
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
