@@ -1,5 +1,7 @@
 # README
 
+Travis CI : [![Build Status](https://travis-ci.org/JgSeike/Grupo8.svg?branch=master)](https://travis-ci.org/JgSeike/Grupo8)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
