@@ -1,5 +1,7 @@
 # TBD
 
+Projeto tem como objetivo melhorar a acessibilidade e qualidade do ead ao de forma automática legendar videos e criar um sistema de pesquisa por palavras ditas em um vídeo (retornar um time stamp a partir de uma palavra ou frase procurada pelos usuários).
+
 ## informaçoes: 
 
 
