@@ -2,8 +2,9 @@
 
 Projeto tem como objetivo melhorar a acessibilidade e qualidade do ead ao de forma automática legendar videos e criar um sistema de pesquisa por palavras ditas em um vídeo (retornar um time stamp a partir de uma palavra ou frase procurada pelos usuários).
 
-## informaçoes: 
+## Informaçoes: 
 
+Pivotal: https://www.pivotaltracker.com/n/projects/2466440
 
 Travis: [![Build Status](https://travis-ci.org/JgSeike/Grupo8.svg?branch=master)](https://travis-ci.org/JgSeike/Grupo8)
 
