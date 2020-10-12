@@ -1,6 +1,6 @@
 # TBD
 
-Projeto tem como objetivo melhorar a acessibilidade e qualidade do ead ao de forma automática legendar videos e criar um sistema de pesquisa por palavras ditas em um vídeo (retornar um time stamp a partir de uma palavra ou frase procurada pelos usuários).
+Projeto tem como objetivo melhorar a acessibilidade e qualidade do EAD, otimizando pesquisas de forma automatizadda. Vamos criar um sistema de pesquisa por palavras ditas verbalmente em um vídeo (e retornar um time stamp a partir de uma palavra ou frase procurada pelos usuários).
 
 ## Informaçoes: 
 
@@ -16,6 +16,7 @@ Coveralls: [![Coverage Status](https://coveralls.io/repos/github/JgSeike/Grupo8/
 [Aplicação hospedada no Heroku ](https://group8-esi.herokuapp.com//)
 
 ## Integrantes:
+
 - Joao Guilherme da Costa Seike
 - Beatriz Thompson Sathler Freitas
 - Igor Davi Cristino Miguez
