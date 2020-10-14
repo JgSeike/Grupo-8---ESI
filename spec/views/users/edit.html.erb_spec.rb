@@ -5,6 +5,7 @@ RSpec.describe "users/edit", type: :view do
     @user = assign(:user, User.create!(
       name: "MyString"
     ))
+    true
   end
 
   it "renders the edit user form" do

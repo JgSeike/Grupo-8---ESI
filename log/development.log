@@ -3679,3 +3679,105 @@ Processing by Devise::SessionsController#new as HTML
 Completed 200 OK in 99ms (Views: 96.6ms | ActiveRecord: 0.0ms | Allocations: 6155)
 
 
+Started GET "/" for ::1 at 2020-10-14 17:41:37 -0300
+  [1m[35m (41.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (Duration: 35.2ms | Allocations: 290)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 656ms (Views: 594.9ms | ActiveRecord: 0.0ms | Allocations: 18913)
+
+
+Started GET "/users/sign_in" for ::1 at 2020-10-14 17:41:48 -0300
+Processing by Devise::SessionsController#new as HTML
+  Rendering C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/shared/_links.html.erb (Duration: 20.2ms | Allocations: 910)
+  Rendered C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/sessions/new.html.erb within layouts/application (Duration: 634.1ms | Allocations: 19444)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 762ms (Views: 734.2ms | ActiveRecord: 2.2ms | Allocations: 31410)
+
+
+Started GET "/users/sign_in" for ::1 at 2020-10-14 18:38:18 -0300
+  [1m[35m (38.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Devise::SessionsController#new as HTML
+  Rendering C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/shared/_links.html.erb (Duration: 4.8ms | Allocations: 596)
+  Rendered C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/sessions/new.html.erb within layouts/application (Duration: 397.1ms | Allocations: 11608)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 839ms (Views: 783.1ms | ActiveRecord: 4.0ms | Allocations: 33494)
+
+
+Started GET "/" for ::1 at 2020-10-14 18:38:21 -0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (Duration: 14.8ms | Allocations: 105)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 113ms (Views: 108.3ms | ActiveRecord: 0.0ms | Allocations: 6051)
+
+
+Started GET "/" for ::1 at 2020-10-14 19:58:17 -0300
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 5)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 89ms (Views: 87.2ms | ActiveRecord: 0.0ms | Allocations: 4643)
+
+
+Started GET "/" for ::1 at 2020-10-14 20:23:19 -0300
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 5)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 81ms (Views: 79.6ms | ActiveRecord: 0.0ms | Allocations: 4631)
+
+
+Started GET "/" for ::1 at 2020-10-14 20:23:21 -0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 75ms (Views: 73.9ms | ActiveRecord: 0.0ms | Allocations: 4629)
+
+
+Started GET "/" for ::1 at 2020-10-14 20:23:22 -0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 5)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 55ms (Views: 54.1ms | ActiveRecord: 0.0ms | Allocations: 4621)
+
+
+Started GET "/users/sign_in" for ::1 at 2020-10-14 20:25:39 -0300
+Processing by Devise::SessionsController#new as HTML
+  Rendering C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/shared/_links.html.erb (Duration: 0.5ms | Allocations: 131)
+  Rendered C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/sessions/new.html.erb within layouts/application (Duration: 10.9ms | Allocations: 1039)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 76ms (Views: 70.9ms | ActiveRecord: 0.0ms | Allocations: 5941)
+
+
+Started GET "/users/sign_up" for ::1 at 2020-10-14 20:25:44 -0300
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/registrations/new.html.erb within layouts/application
+  Rendered C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/shared/_error_messages.html.erb (Duration: 3.8ms | Allocations: 197)
+  Rendered C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/shared/_links.html.erb (Duration: 0.6ms | Allocations: 120)
+  Rendered C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/registrations/new.html.erb within layouts/application (Duration: 25.6ms | Allocations: 1885)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 142ms (Views: 138.8ms | ActiveRecord: 0.0ms | Allocations: 7473)
+
+
+Started POST "/users" for ::1 at 2020-10-14 20:25:47 -0300
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"authenticity_token"=>"CX6CyL1dgTL3gKAzJ4o9QhfVNE34E6IjzSbmGXEk1WIAHUMo8KkIg3vMeAJ/lpZu1bjS9kkoSiX8gXsm0PJBoA==", "user"=>{"email"=>"", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  Rendering C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/registrations/new.html.erb within layouts/application
+  Rendered C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/shared/_error_messages.html.erb (Duration: 0.9ms | Allocations: 346)
+  Rendered C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/shared/_links.html.erb (Duration: 0.3ms | Allocations: 79)
+  Rendered C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/devise-4.7.3/app/views/devise/registrations/new.html.erb within layouts/application (Duration: 7.9ms | Allocations: 1377)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 133ms (Views: 93.2ms | ActiveRecord: 0.0ms | Allocations: 9829)
+
+

@@ -5,10 +5,12 @@ RSpec.describe "users/show", type: :view do
     @user = assign(:user, User.create!(
       name: "Name"
     ))
+    true
   end
 
   it "renders attributes in <p>" do
     render
     expect(rendered).to match(/Name/)
+    true
   end
 end
