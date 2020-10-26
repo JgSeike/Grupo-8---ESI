@@ -3796,3 +3796,32 @@ Completed 200 OK in 750ms (Views: 682.7ms | ActiveRecord: 0.0ms | Allocations: 2
   [1m[36mActiveRecord::InternalMetadata Load (0.4ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
   [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
   [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/users/sign_up" for ::1 at 2020-10-25 23:05:34 -0300
+  [1m[35m (12.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.8ms | Allocations: 200)
+  Rendered devise/shared/_links.html.erb (Duration: 8.9ms | Allocations: 515)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 109.9ms | Allocations: 14303)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 379ms (Views: 338.2ms | ActiveRecord: 1.7ms | Allocations: 31647)
+
+
+Started GET "/" for ::1 at 2020-10-25 23:06:48 -0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 107)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 82ms (Views: 78.8ms | ActiveRecord: 0.0ms | Allocations: 5481)
+
+
+Started GET "/users/sign_in" for ::1 at 2020-10-25 23:06:54 -0300
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.5ms | Allocations: 201)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 21.8ms | Allocations: 9660)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 89ms (Views: 86.5ms | ActiveRecord: 0.0ms | Allocations: 19827)
+
+

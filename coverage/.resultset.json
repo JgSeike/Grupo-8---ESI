@@ -877,6 +877,7 @@
         1,
         0,
         null,
+        null,
         0,
         0,
         0,
@@ -926,6 +927,12 @@
       ],
       "C:/Users/Dell/Documents/GitHub/Grupo8/app/controllers/application_controller.rb": [
         1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        0,
         null,
         null
       ],
@@ -1020,6 +1027,6 @@
         null
       ]
     },
-    "timestamp": 1603672743
+    "timestamp": 1603678076
   }
 }
