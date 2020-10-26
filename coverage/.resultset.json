@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "C:/Users/Dell/Documents/GitHub/Grupo8/spec/helpers/users_helper_spec.rb": [
+      "D:/Estudos/trab/Grupo8/spec/helpers/users_helper_spec.rb": [
         1,
         null,
         null,
@@ -18,7 +18,7 @@
         1,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/spec/rails_helper.rb": [
+      "D:/Estudos/trab/Grupo8/spec/rails_helper.rb": [
         null,
         1,
         1,
@@ -87,14 +87,14 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/environment.rb": [
+      "D:/Estudos/trab/Grupo8/config/environment.rb": [
         null,
         1,
         null,
         null,
         1
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/application.rb": [
+      "D:/Estudos/trab/Grupo8/config/application.rb": [
         1,
         null,
         1,
@@ -115,13 +115,13 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/boot.rb": [
+      "D:/Estudos/trab/Grupo8/config/boot.rb": [
         1,
         null,
         1,
         1
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/environments/test.rb": [
+      "D:/Estudos/trab/Grupo8/config/environments/test.rb": [
         null,
         null,
         null,
@@ -172,7 +172,7 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/initializers/application_controller_renderer.rb": [
+      "D:/Estudos/trab/Grupo8/config/initializers/application_controller_renderer.rb": [
         null,
         null,
         null,
@@ -182,7 +182,7 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/initializers/assets.rb": [
+      "D:/Estudos/trab/Grupo8/config/initializers/assets.rb": [
         null,
         null,
         null,
@@ -198,7 +198,7 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/initializers/backtrace_silencers.rb": [
+      "D:/Estudos/trab/Grupo8/config/initializers/backtrace_silencers.rb": [
         null,
         null,
         null,
@@ -207,7 +207,7 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/initializers/content_security_policy.rb": [
+      "D:/Estudos/trab/Grupo8/config/initializers/content_security_policy.rb": [
         null,
         null,
         null,
@@ -239,14 +239,14 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/initializers/cookies_serializer.rb": [
+      "D:/Estudos/trab/Grupo8/config/initializers/cookies_serializer.rb": [
         null,
         null,
         null,
         null,
         1
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/initializers/devise.rb": [
+      "D:/Estudos/trab/Grupo8/config/initializers/devise.rb": [
         null,
         null,
         null,
@@ -559,13 +559,13 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/initializers/filter_parameter_logging.rb": [
+      "D:/Estudos/trab/Grupo8/config/initializers/filter_parameter_logging.rb": [
         null,
         null,
         null,
         1
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/initializers/inflections.rb": [
+      "D:/Estudos/trab/Grupo8/config/initializers/inflections.rb": [
         null,
         null,
         null,
@@ -583,13 +583,13 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/initializers/mime_types.rb": [
+      "D:/Estudos/trab/Grupo8/config/initializers/mime_types.rb": [
         null,
         null,
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/initializers/wrap_parameters.rb": [
+      "D:/Estudos/trab/Grupo8/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -605,7 +605,7 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/config/routes.rb": [
+      "D:/Estudos/trab/Grupo8/config/routes.rb": [
         1,
         1,
         1,
@@ -614,7 +614,7 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/app/models/user.rb": [
+      "D:/Estudos/trab/Grupo8/app/models/user.rb": [
         1,
         null,
         null,
@@ -622,24 +622,24 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/app/models/application_record.rb": [
+      "D:/Estudos/trab/Grupo8/app/models/application_record.rb": [
         1,
         1,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/app/helpers/application_helper.rb": [
+      "D:/Estudos/trab/Grupo8/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/app/helpers/users_helper.rb": [
+      "D:/Estudos/trab/Grupo8/app/helpers/users_helper.rb": [
         1,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/app/helpers/welcome_helper.rb": [
+      "D:/Estudos/trab/Grupo8/app/helpers/welcome_helper.rb": [
         1,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/spec/helpers/welcome_helper_spec.rb": [
+      "D:/Estudos/trab/Grupo8/spec/helpers/welcome_helper_spec.rb": [
         1,
         null,
         null,
@@ -651,19 +651,19 @@
         null,
         null,
         null,
-        null,
-        1,
-        1,
-        null
-      ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/spec/models/user_spec.rb": [
-        1,
         null,
         1,
         1,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/spec/requests/users_spec.rb": [
+      "D:/Estudos/trab/Grupo8/spec/models/user_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null
+      ],
+      "D:/Estudos/trab/Grupo8/spec/requests/users_spec.rb": [
         1,
         null,
         null,
@@ -794,7 +794,7 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/spec/requests/welcome_request_spec.rb": [
+      "D:/Estudos/trab/Grupo8/spec/requests/welcome_request_spec.rb": [
         1,
         null,
         1,
@@ -808,7 +808,7 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/spec/routing/users_routing_spec.rb": [
+      "D:/Estudos/trab/Grupo8/spec/routing/users_routing_spec.rb": [
         1,
         null,
         1,
@@ -829,9 +829,6 @@
         1,
         null,
         null,
-        null,
-        1,
-        1,
         null,
         null,
         1,
@@ -848,7 +845,7 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/app/controllers/users_controller.rb": [
+      "D:/Estudos/trab/Grupo8/app/controllers/users_controller.rb": [
         1,
         1,
         null,
@@ -924,12 +921,12 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/app/controllers/application_controller.rb": [
+      "D:/Estudos/trab/Grupo8/app/controllers/application_controller.rb": [
         1,
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/spec/views/users/edit.html.erb_spec.rb": [
+      "D:/Estudos/trab/Grupo8/spec/views/users/edit.html.erb_spec.rb": [
         1,
         null,
         1,
@@ -937,45 +934,6 @@
         1,
         null,
         null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        0,
-        null,
-        0,
-        null,
-        null,
-        null
-      ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/spec/views/users/index.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        0,
-        null,
-        null
-      ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/spec/views/users/new.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        1,
         null,
         null,
         null,
@@ -990,7 +948,7 @@
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/spec/views/users/show.html.erb_spec.rb": [
+      "D:/Estudos/trab/Grupo8/spec/views/users/index.html.erb_spec.rb": [
         1,
         null,
         1,
@@ -1000,26 +958,73 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         1,
-        0,
-        0,
+        1,
+        1,
         null,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/spec/views/welcome/index.html.erb_spec.rb": [
+      "D:/Estudos/trab/Grupo8/spec/views/users/new.html.erb_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "D:/Estudos/trab/Grupo8/spec/views/users/show.html.erb_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "D:/Estudos/trab/Grupo8/spec/views/welcome/index.html.erb_spec.rb": [
         1,
         null,
         1,
         1,
         null
       ],
-      "C:/Users/Dell/Documents/GitHub/Grupo8/app/controllers/welcome_controller.rb": [
+      "D:/Estudos/trab/Grupo8/app/controllers/welcome_controller.rb": [
         1,
         1,
         null,
         null
       ]
     },
-    "timestamp": 1603672743
+    "timestamp": 1603724282
   }
 }
