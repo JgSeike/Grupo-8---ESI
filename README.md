@@ -17,5 +17,5 @@ Coveralls: [![Coverage Status](https://coveralls.io/repos/github/JgSeike/Grupo8/
 
 ## Integrantes:
 - Joao Guilherme da Costa Seike
-- Rafael Martins Campos
 - Joao Pedro Rodrigues Camargo
+- Rafael Martins Campos
